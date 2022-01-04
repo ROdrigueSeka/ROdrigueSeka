@@ -1,0 +1,5 @@
+-Hi ROdrigueSeka
+- 👀 I’m interested by BIG DATA and Machine learning
+- 🌱 I’m currently learning computers science studies 
+- 💞️ I’m looking to collaborate on data analysis, processing data,coding , data base and cybersecurity etc ...
+- 📫 How to reach me rodrigues.seka@gmail.com
